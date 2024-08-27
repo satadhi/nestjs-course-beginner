@@ -26,6 +26,8 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+Checkout the dto folder, this chapter talks about the dto and validations
+
 ## Installation
 
 ```bash
